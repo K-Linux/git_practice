@@ -9,7 +9,8 @@ int main(int argc, char *argv[])
 	printf("This is B\n");
 	printf("This is B\n");
 	printf("fix a bug\n");
-	printf("add C");
+	printf("This is C\n");
+	printf("add D\n");
 
 
 	return 0;
