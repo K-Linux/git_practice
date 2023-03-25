@@ -10,7 +10,6 @@ int main(int argc, char *argv[])
 	printf("This is B\n");
 	printf("fix a bug\n");
 	printf("This is C\n");
-	printf("This is D\n");
 
 
 	return 0;
