@@ -1,0 +1,14 @@
+
+#排除的文件
+
+buildroot-2019.11
+out
+rootfs
+external
+Makefile
+config
+linux/test
+
+#不排除的文件
+!.gitignore
+
