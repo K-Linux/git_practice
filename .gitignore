@@ -1,6 +1,22 @@
 
+<<<<<<< HEAD
 # ignore
 out 
 
 # not ignore
 !.gitignore
+=======
+#排除的文件
+
+buildroot-2019.11
+out
+rootfs
+external
+Makefile
+config
+linux/test
+
+#不排除的文件
+!.gitignore
+
+>>>>>>> 0d2664d637aaa7867ef6164a763a66370eaed278
