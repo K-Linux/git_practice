@@ -3,7 +3,7 @@
 
 int main(int argc, char *argv[])
 {
-	printf("I'm a Linuxer\n");
+	printf("4.25-20:53\n");
 
 
 
